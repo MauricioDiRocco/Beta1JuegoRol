@@ -1,0 +1,456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\lootitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lootitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\loottable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loottable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\damagepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\iteminstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iteminstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\statsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\draggableui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\draggableui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\grounditemlifetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\grounditemlifetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\EquipmentSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EquipmentSlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\tooltiptrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tooltiptrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\itemdragger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemdragger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\tooltipsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tooltipsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\golddrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\golddrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\worlditemtooltip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\worlditemtooltip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\skillslotdropreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skillslotdropreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\skillslotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skillslotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\skillslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skillslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\respawnhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\respawnhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\hotbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hotbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\s7\\desktop\\beta1juegorol\\assets\\scripts\\tooltipdebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tooltipdebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAM8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T02:28:15.879Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DraggableUI.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\DraggableUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DraggableUI.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\DraggableUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DraggableUI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T23:58:09.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroundItemLifetime.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\GroundItemLifetime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundItemLifetime.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\GroundItemLifetime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GroundItemLifetime.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwv0AAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T23:42:39.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerStats.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T02:35:41.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatsUI.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\StatsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StatsUI.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\StatsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StatsUI.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAkwNgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:45:19.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemInstance.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\ItemInstance.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemInstance.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\ItemInstance.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemInstance.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAAABEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T02:55:34.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DamagePopup.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\DamagePopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamagePopup.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\DamagePopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamagePopup.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T02:28:15.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemData.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemData.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:02:49.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LootTable.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\LootTable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LootTable.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\LootTable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LootTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:19:20.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LootItem.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\LootItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LootItem.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\LootItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LootItem.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAADwv8IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:26:28.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TooltipTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\TooltipTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TooltipTrigger.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\TooltipTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TooltipTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T01:01:20.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemDragger.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\ItemDragger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemDragger.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\ItemDragger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemDragger.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAADwv58AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:18:29.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAswC8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T02:28:15.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TooltipSystem.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\TooltipSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TooltipSystem.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\TooltipSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TooltipSystem.cs",
+              "ViewState": "AgIAACABAAAAAAAAAADwv1IBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:59:54.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventorySlot.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\InventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySlot.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\InventorySlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventorySlot.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAswOYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:04:02.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EquipmentSlot.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\EquipmentSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EquipmentSlot.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\EquipmentSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EquipmentSlot.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwv5UAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T17:02:03.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventoryManager.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAADwv4sAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:17:37.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GoldDrop.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\GoldDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GoldDrop.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\GoldDrop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GoldDrop.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T01:55:49.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WorldItemTooltip.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\WorldItemTooltip.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WorldItemTooltip.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\WorldItemTooltip.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WorldItemTooltip.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T03:27:58.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SkillSlotDropReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\SkillSlotDropReceiver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SkillSlotDropReceiver.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\SkillSlotDropReceiver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SkillSlotDropReceiver.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:10:16.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SkillSlotData.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\SkillSlotData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SkillSlotData.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\SkillSlotData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SkillSlotData.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T17:11:08.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SkillSlot.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\SkillSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SkillSlot.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\SkillSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SkillSlot.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAOYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T17:10:27.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RespawnHelper.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\RespawnHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RespawnHelper.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\RespawnHelper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RespawnHelper.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:14:11.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HotbarManager.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\HotbarManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HotbarManager.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\HotbarManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HotbarManager.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwF0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T17:11:47.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T02:28:15.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TooltipDebugger.cs",
+              "DocumentMoniker": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\TooltipDebugger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TooltipDebugger.cs",
+              "ToolTip": "C:\\Users\\s7\\Desktop\\Beta1JuegoRol\\Assets\\Scripts\\TooltipDebugger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TooltipDebugger.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T03:32:59.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

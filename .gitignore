@@ -1,0 +1,28 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.pidb
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+.DS_Store
+*.swp
+*.csproj
+*.sln
+.vs/Assets/AllSkyFree/Cold Sunset/Cold Sunset Equirect.png
+Assets/AllSkyFree/
+Assets/FantasyEnvironments/
+Assets/TerrainSampleAssets/
+Assets/Animacion enemigo/
+*.flac
+*.tga
+*.tif
+*.tiff
+*.fbx
+*.zip
